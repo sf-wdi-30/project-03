@@ -150,27 +150,30 @@ You'll meet with your assigned instructor / IA daily to guide you throughout the
 
 
 
-<!--#### INSTRUCTOR-->
+#### Melissa
 
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+* James
+* Matt
+* Meg
+* Daniel
+* David
 
+#### Justin
 
-<!--#### INSTRUCTOR-->
+* Ted
+* Tiffani
+* Aaron
+* Natalia
+* Switt
+ 
 
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+#### Ben
 
-<!--#### INSTRUCTOR-->
-
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+* Ryan
+* Bill
+* Jason
+* Sophia
+* Paolo
 
 
 ---
