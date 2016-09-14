@@ -116,7 +116,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **September 8th 10:30 am (though you can pitch to us before that time)** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **September 15th 10:00 am** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **September 15th 11:30 am** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,7 +133,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **10:00 am** on **September 15th**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **11:30 am** on **September 15th**. Each presentation should be **8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
